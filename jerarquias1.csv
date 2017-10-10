@@ -1,0 +1,10 @@
+TIPO_OPERACION;ACCIDENTES_PERSONALES;DAVIDA;DESEMPLEO_FIJO;DESEMPLEO_HIPOTECARIO;DESEMPLEO_LIBRANZA;DESEMPLEO_TDC;DESEMPLEO_VEHICULO;HOGAR;INCENDIO_TERREMOTO_REINV;PROTECCION_TARJETAS;RENTA_DIARIA;SOAT;TRANQUILIDAD_MUJER;VEHICULO;VIDA_DEUDORES_REINV
+ACTIVACION TDC;False;True;False;False;False;False;False;False;False;False;False;False;False;False;False
+APERTURAS PASIVO;False;True;False;False;False;False;False;False;False;False;False;False;False;False;False
+APROBACIONES CREDITOS;False;True;True;True;True;False;True;True;True;False;False;False;False;True;True
+DESEMBOLSOS CREDITOS;False;True;True;True;True;False;True;True;True;False;False;False;False;True;True
+OTRA;True;True;True;True;True;True;True;True;True;True;True;True;True;True;True
+PREAPROBADOS;False;True;True;True;True;False;True;True;True;False;False;False;False;True;True
+SOLICITUDES;False;True;False;False;False;False;False;False;False;False;False;False;False;False;False
+TELEMERCADEO;True;False;True;True;True;True;True;True;False;True;True;True;True;True;False
+TRANSACCIONES CAJA;False;True;False;False;False;False;False;False;False;False;False;False;False;False;False
