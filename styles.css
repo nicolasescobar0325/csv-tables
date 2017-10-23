@@ -1,0 +1,12 @@
+._dash-undo-redo {
+  display: none;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(LowCasatLight_PERSONAL_USE.ttf);
+}
+
+div {
+    font-family: myFirstFont;
+}
