@@ -3,10 +3,12 @@
 }
 
 @font-face {
-    font-family: myFirstFont;
-    src: url(LowCasatLight_PERSONAL_USE.ttf);
+  font-family: 'Low Casat Light PERSONAL USE';
+  src: url(LowCasatLight_PERSONAL_USE.ttf);
+  src: local(LowCasatLight_PERSONAL_USE.ttf)
 }
 
 div {
-    font-family: myFirstFont;
+    font-family: 'Low Casat Light PERSONAL USE';
+    font-size: 100
 }
